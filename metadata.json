@@ -1,0 +1,6 @@
+{
+  "name": "CampusGuide AI — Smart College FAQ Assistant",
+  "description": "AI-powered college FAQ assistant grounded in verified documents, English language assistance, RAG retrieval, and administrative knowledge-base management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
